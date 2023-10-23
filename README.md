@@ -1,6 +1,6 @@
 ### ***Data-Viz-World-cup***
 
-This project focuses on the analysis of Argentina's national football team's performance during the FIFA World Cup. Using the dataset `Fifa_world_cup_matches.csv`, we delve into various match aspects to answer the question: "Why did Argentina win the World Cup?".
+This project focuses on the analysis of Argentina's national football team's performance during the FIFA World Cup. Using the dataset `Fifa_world_cup_matches.csv`, we delve into various match aspects to answer the question: "How did Argentina win the World Cup?".
 
 ### Analysis Points
 
