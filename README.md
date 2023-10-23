@@ -31,18 +31,7 @@ This project focuses on the analysis of Argentina's national football team's per
 
 - **Python**: Main language used for data analysis.
 - **Jupyter Notebook**: Development environment for interactive analysis.
-- **Matplotlib & Seaborn**: Libraries used for data visualization (based on visualizations observed in the notebook).
-
-### How to Run the Project
-
-1. Clone this GitHub repository to your local machine.
-2. Install the necessary dependencies using `pip install -r requirements.txt` (you might need to create this file with the appropriate dependencies).
-3. Open the file `Projet_data_viz.ipynb` in Jupyter Notebook or Jupyter Lab.
-4. Run the cells sequentially to see the analyses and visualizations.
-
-### License
-
-This project is licensed under the MIT License.
+- **Matplotlib & Seaborn**: Libraries used for data visualization.
 
 ---
 
