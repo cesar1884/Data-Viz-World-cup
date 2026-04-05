@@ -32,7 +32,3 @@ This project focuses on the analysis of Argentina's national football team's per
 - **Python**: Main language used for data analysis.
 - **Jupyter Notebook**: Development environment for interactive analysis.
 - **Matplotlib & Seaborn**: Libraries used for data visualization.
-
----
-
-Feel free to make any modifications or add additional sections as per your requirements!
